@@ -40,9 +40,6 @@ Voraussetzungen:
 py -m pip install -r requirements.txt
 ```
 
-## Screenshots (für GitHub)
-
-Lege 3 Bilder in `assets/` ab und verlinke sie so:
 
 ```md
 ### Launcher
@@ -53,10 +50,6 @@ Lege 3 Bilder in `assets/` ab und verlinke sie so:
 
 ### Image Automator
 ![Image Automator](assets/03-image-automator.png)
-```
-
-## Hinweis zu Daten
-Bitte in einem öffentlichen Repo nur Demo-/Beispieldaten nutzen (keine privaten Inhalte).
 
 ## Lizenz
 MIT (optional)
