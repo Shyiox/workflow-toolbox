@@ -40,8 +40,8 @@ Voraussetzungen:
 py -m pip install -r requirements.txt
 ```
 
+## Screenshots
 
-```md
 ### Launcher
 ![Launcher](assets/01-launcher.png)
 
@@ -50,6 +50,10 @@ py -m pip install -r requirements.txt
 
 ### Image Automator
 ![Image Automator](assets/03-image-automator.png)
+
+
+## Hinweis zu Daten
+Bitte in einem öffentlichen Repo nur Demo-/Beispieldaten nutzen (keine privaten Inhalte).
 
 ## Lizenz
 MIT (optional)
